@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+    <Url>https://www.w3schools.com/html/html_tables.asp</Url>
+	<Browser>chrome</Browser>
+    <search_column>1</search_column>
+    <search_text>Alfreds Futterkiste</search_text>
+    <return_column_text>2</return_column_text>
+    <expected_result>Maria Anders</expected_result>
+</Environment>
