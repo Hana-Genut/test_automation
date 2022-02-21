@@ -1,4 +1,4 @@
-from page_objects.main_table_PO import Table
+from python_automation.page_objects.main_table_PO import Table
 
 main_table_PO = None
 

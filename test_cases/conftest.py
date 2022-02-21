@@ -3,8 +3,8 @@ import pytest
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 
-from utilities.manage_pages import Page_Manager
-from utilities.read_properties import get_data
+from python_automation.utilities.manage_pages import Page_Manager
+from python_automation.utilities.read_properties import get_data
 
 driver = None
 
